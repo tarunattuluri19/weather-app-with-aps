@@ -1,1 +1,2 @@
-# weather-app-with-apis
+# weather-js-app
+ 
